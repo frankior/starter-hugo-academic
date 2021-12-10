@@ -11,7 +11,9 @@ social:
     link: https://twitter.com/frankiorfino
     icon_pack: fas
     icon: "#twitter"
-organizations: []
+organizations:
+  - name: Brain and Mind Centre, The University of Sydney
+    url: https://www.sydney.edu.au/brain-mind/
 education:
   courses:
     - course: PhD in Medicine
