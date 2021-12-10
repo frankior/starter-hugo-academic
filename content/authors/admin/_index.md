@@ -6,24 +6,12 @@ bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests: []
 social:
-  - icon: envelope
+  - display:
+      header: false
+    link: https://twitter.com/frankiorfino
     icon_pack: fas
-    link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
-organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+    icon: "#twitter"
+organizations: []
 education:
   courses:
     - course: PhD in Medicine
