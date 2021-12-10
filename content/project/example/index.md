@@ -2,13 +2,13 @@
 slides: example
 url_pdf: ""
 title: Explainable machine learning to improve youth mental health care
-summary: An example of using the in-built project page.
+summary: ""
 url_video: ""
 date: 2016-04-27T00:00:00Z
 external_link: ""
 url_slides: ""
-subtitle: "Funded by: MRFF Applied Artificial Intelligence Research in Health
-  Grant from the Department of Health "
+subtitle: "MRFF Applied Artificial Intelligence Research in Health Grant from
+  the Department of Health "
 tags: []
 links: []
 image:
