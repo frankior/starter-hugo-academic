@@ -7,9 +7,9 @@ bio: My research interests include distributed robotics, mobile computing and
 interests: []
 social:
   - display:
-      header: false
+      header: true
     link: https://twitter.com/frankiorfino
-    icon_pack: fas
+    icon_pack: ai
     icon: "#twitter"
 organizations:
   - name: Brain and Mind Centre, The University of Sydney
